@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,hk-hkg.doh.sb
 
 # 其他网站
 DOMAIN-SUFFIX,freedidi.com
+DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,myip.com
 DOMAIN-SUFFIX,xboxlive.com
 DOMAIN-SUFFIX,cmliussss.com
